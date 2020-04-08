@@ -1,7 +1,7 @@
 package com.kh.team.model.vo;
 
 public class Garbage {
-	
+
 	private int hp;
 	private int haveGargabe;
 	public Garbage(int hp, int haveGargabe) {
@@ -21,6 +21,6 @@ public class Garbage {
 	public void setHaveGargabe(int haveGargabe) {
 		this.haveGargabe = haveGargabe;
 	}
-	
+
 }
 
