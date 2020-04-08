@@ -6,7 +6,8 @@ public class Player {
 	private String userPwd;		//유저 비밀번호
 	private String userName;	//유저닉네임
 	private String phoneNumber;	//핸드폰번호
-	private String email;		//이메일
+	private String email;
+	//이메일
 	public static int pearl;	//진주
 	public static int garbage;	//쓰레기
 	public static int sp;		//공격력
