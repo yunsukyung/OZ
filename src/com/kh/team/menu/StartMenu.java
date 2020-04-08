@@ -23,11 +23,30 @@ public class StartMenu extends SuperMenu
 		//JButton button = new JButton(start);
 		//button.setBounds(0, 0, 30, 20);
 		panel.add(label);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		//startPanel.add(button);
 		//panel.add(startPanel);
 		System.out.println(panel.getLocation());
 		panel.revalidate();
 		super.add(panel);
+	}
+	
+	public void StartStoryView() {
+		JPanel panel = new JPanel();
+		panel.setSize(300, 200);
+		
+		Image background = new ImageIcon().getImage().getScaledInstance(100, 100, 0);
+		
 	}
 	
 	
