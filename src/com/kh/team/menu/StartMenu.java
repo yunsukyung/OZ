@@ -10,4 +10,6 @@ public class StartMenu extends SuperMenu{
 		
 		//Image background = new ImageIcon()
 	}
+	
+	
 }
